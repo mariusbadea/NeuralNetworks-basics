@@ -3,24 +3,8 @@
 
 # # Neural Networks Basics
 
-# # Introduction
-
 # This tutorial aims at providing a practical approach in understanding the basic building block of neural networks: <b>The Neuron</b><br>
 # This first notebook contains an introduction of the concepts, then we will proceed with practical examples.
-
-# <br>MNIST: a large database of handwritten digits that is commonly used for training various image processing systems.<br>
-# ![image.png](attachment:image.png)
-# <br>How can we write a program that recognize all digits above are 2?
-
-# <br>Paradigm shift
-# ![image.png](attachment:image.png)
-
-# <br>Neural networks are combinations of neurons arranged in layers (input, hidden, output).
-# ![image1.png](attachment:image1.png)
-
-# ![image.png](attachment:image.png)
-# 
-# House price neural network
 
 # # The Neuron
 
